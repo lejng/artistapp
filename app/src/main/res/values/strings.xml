@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TheNotes</string>
+    <string name="title">Title Note</string>
+    <string name="date">01/01/2001</string>
+    <string name="empty_list">Список пуст</string>
+    <string name="title_new_note"> Новая заметка</string>
+    <string name="save_note">Сохранить</string>
+    <string name="delete_note">Удалить</string>
+    <string name="main_title">Заметки</string>
+    <string name="edit_title">Редактирование</string>
+    <string name="send_title">Отправить</string>
+</resources>
